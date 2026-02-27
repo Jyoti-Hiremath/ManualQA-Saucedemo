@@ -4,6 +4,7 @@ This repository contains complete QA documentation for a sample e-commerce appli
 
 ## Included Documents
 - Test Plan
+- TestCase Document
 - Functional Test Cases
 - Requirement Traceability Matrix (RTM)
 - Sample Defect Report
